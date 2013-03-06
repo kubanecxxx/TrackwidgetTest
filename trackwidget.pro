@@ -21,4 +21,4 @@ FORMS    += mainwindow.ui \
 
 unix:!macx: LIBS += -lsndfile
 
-include (TrackWidget/TrackWidget.pro)
+include (widgetTrack/TrackWidget.pro)
